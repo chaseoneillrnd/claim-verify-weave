@@ -1,7 +1,7 @@
-import { AcademyMockup } from '@/components/AcademyMockup';
+import { RecursiveClaimValidationMockup } from '@/components/RecursiveClaimValidationMockup';
 
 const Index = () => {
-  return <AcademyMockup />;
+  return <RecursiveClaimValidationMockup />;
 };
 
 export default Index;
