@@ -36,6 +36,22 @@ All colors MUST be HSL.
     --input: 214.3 31.8% 91.4%;
     --ring: 222.2 84% 4.9%;
 
+    /* Claim validation colors */
+    --validation-high: 120 60% 50%;
+    --validation-high-foreground: 0 0% 100%;
+    --validation-medium: 45 100% 51%;
+    --validation-medium-foreground: 0 0% 100%;
+    --validation-low: 0 84% 60%;
+    --validation-low-foreground: 0 0% 100%;
+    --validation-pending: 220 13% 91%;
+    --validation-pending-foreground: 222.2 84% 4.9%;
+    
+    /* Socratic dialogue theme colors */
+    --socratic-blue: 210 100% 56%;
+    --socratic-blue-light: 210 100% 90%;
+    --socratic-purple: 270 50% 40%;
+    --socratic-green: 120 40% 45%;
+
     --radius: 0.5rem;
 
     --sidebar-background: 0 0% 98%;
@@ -83,6 +99,16 @@ All colors MUST be HSL.
     --border: 217.2 32.6% 17.5%;
     --input: 217.2 32.6% 17.5%;
     --ring: 212.7 26.8% 83.9%;
+
+    /* Dark mode validation colors */
+    --validation-high: 120 60% 45%;
+    --validation-high-foreground: 0 0% 100%;
+    --validation-medium: 45 100% 45%;
+    --validation-medium-foreground: 0 0% 100%;
+    --validation-low: 0 84% 55%;
+    --validation-low-foreground: 0 0% 100%;
+    --validation-pending: 217.2 32.6% 17.5%;
+    --validation-pending-foreground: 210 40% 98%;
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;
     --sidebar-primary: 224.3 76.3% 48%;

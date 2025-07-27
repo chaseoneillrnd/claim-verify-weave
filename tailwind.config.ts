@@ -52,6 +52,22 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				validation: {
+					high: 'hsl(var(--validation-high))',
+					'high-foreground': 'hsl(var(--validation-high-foreground))',
+					medium: 'hsl(var(--validation-medium))',
+					'medium-foreground': 'hsl(var(--validation-medium-foreground))',
+					low: 'hsl(var(--validation-low))',
+					'low-foreground': 'hsl(var(--validation-low-foreground))',
+					pending: 'hsl(var(--validation-pending))',
+					'pending-foreground': 'hsl(var(--validation-pending-foreground))'
+				},
+				socratic: {
+					blue: 'hsl(var(--socratic-blue))',
+					'blue-light': 'hsl(var(--socratic-blue-light))',
+					purple: 'hsl(var(--socratic-purple))',
+					green: 'hsl(var(--socratic-green))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
